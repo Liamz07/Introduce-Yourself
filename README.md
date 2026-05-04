@@ -30,6 +30,6 @@
 - [Instagram](https://www.instagram.com/minhphees/)
 - [Tiktok](https://www.tiktok.com/@minhmaster2k7)
 
-*💻 Competitve Programming:*
+*💻 Competitive Programming:*
 - [VNOJ](https://oj.vnoi.info/user/Liamz07)
 - [LQDOJ](https://lqdoj.edu.vn/user/Liamz07)
