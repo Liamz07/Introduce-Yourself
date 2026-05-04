@@ -33,3 +33,10 @@
 *💻 Competitive Programming:*
 - [VNOJ](https://oj.vnoi.info/user/Liamz07)
 - [LQDOJ](https://lqdoj.edu.vn/user/Liamz07)
+
+*🗣️ Slogan:*
+> "Nếu bạn muốn bỏ cuộc, hãy nghĩ đến lý do mà bạn đã bắt đầu thực hiện nó."
+
+*😮 Best Pic:*
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/eddbcaa2-b240-44c1-b2f1-fb4579e552c8" />
+
