@@ -25,6 +25,11 @@
 - Đu theo sở thích và đam mê 🤓
 
 *📞 Contacts:*
-- [Facebook] https://www.facebook.com/nqnm2007/
-- [LinkedIn] 
-Fav
+- [Facebook](https://www.facebook.com/nqnm2007/)
+- [LinkedIn](www.linkedin.com/in/nguyễn-quốc-nhật-minh-a6b631397)
+- [Instagram](https://www.instagram.com/minhphees/)
+- [Tiktok](https://www.tiktok.com/@minhmaster2k7)
+
+*💻 Competitve Programming:*
+- [VNOJ](https://oj.vnoi.info/user/Liamz07)
+- [LQDOJ](https://lqdoj.edu.vn/user/Liamz07)
